@@ -5,3 +5,16 @@
 
 ---
 
+# HOW TO RUN BOT
+
+## Clone repo
+
+From git 
+
+```
+git clone https://github.com/AzlanEh/instaBOT.git
+```
+
+OR, Download zip
+
+[Click here](https://github.com/AzlanEh/instaBOT/archive/refs/heads/main.zip)

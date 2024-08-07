@@ -1,0 +1,16 @@
+{
+  "name": "instabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "instagram-private-api": "github:dilame/instagram-private-api"
+  }
+}

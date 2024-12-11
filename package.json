@@ -5,12 +5,13 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "node main.js"
+    "dev": "node -r dotenv/config src/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "instagram-private-api": "github:dilame/instagram-private-api"
   }
 }

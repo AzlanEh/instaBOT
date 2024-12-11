@@ -1,4 +1,9 @@
+import dotenv from "dotenv";
 import { IgApiClient } from "instagram-private-api";
+
+dotenv.config({
+  path: "./.env",
+});
 
 const ig = new IgApiClient();
 
